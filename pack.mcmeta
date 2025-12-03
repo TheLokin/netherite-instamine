@@ -1,0 +1,12 @@
+{
+  "pack": {
+    "pack_format": 88,
+    "min_format": 57,
+    "max_format": 88,
+    "supported_formats": {
+      "min_inclusive": 57,
+      "max_inclusive": 88
+    },
+    "description": "§9Netherite Instamine §f\nJE 1.21.2+ §7By TheLokin"
+  }
+}
