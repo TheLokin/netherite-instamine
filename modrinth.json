@@ -1,0 +1,5 @@
+{
+  "version": "1.0.0",
+  "game_versions": ">=1.21.2 <=1.21.10",
+  "changelog": "Initial release"
+}
