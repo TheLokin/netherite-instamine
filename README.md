@@ -4,12 +4,13 @@ A collection of quality of life improvements for Minecraft, focusing on simple c
 
 - Format: Available as both a Data Pack and a Mod.
 
-- Compatibility: Works on vanilla Minecraft and modded environments like Fabric, Quilt, Forge, and NeoForge.
+- Compatibility: Works on vanilla Minecraft and modded environments like Fabric, Quilt, Forge and NeoForge.
 
 ## Packs
 
-| Pack                      | Description                                                                                                                 | Modrinth                                                                                                                                                 |
-| :------------------------ | :-------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Cheaper Shulker Boxes** | Fixes inventory clutter by making shulker boxes cost only 1 shell and 1 chest. Fits in the 2x2 crafting grid!               | [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com/project/cheaper-shulker-boxes) |
-| **Netherite Instamine**   | Instamine deepslate, nether bricks, and more using Efficiency V and Haste II by leveraging the mining efficiency attribute. | [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com/project/netherite-instamine)   |
-| **Turbo Happy Ghast**     | Increases the flight speed of Happy Ghasts while a player is mounted on it.                                                 | [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com/project/turbo-happy-ghast)     |
+| Pack                      | Description                                                                                              | Modrinth                                                                                                                                                 |
+| :------------------------ | :------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Cheaper Shulker Boxes** | Craft Shulker Boxes with just 1 Shulker Shell and 1 Chest. No crafting table required.                   | [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com/project/cheaper-shulker-boxes) |
+| **Netherite Instamine**   | Instamine deepslate, nether bricks, end stone, any wood type and more using Efficiency V and Haste II.   | [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com/project/netherite-instamine)   |
+| **Turbo Happy Ghast**     | Increases the Happy Ghast's flying speed whenever a player is mounted on it.                             | [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com/project/turbo-happy-ghast)     |
+| **Unpackable Ice**        | Unpacking recipes for Packed Ice and Blue Ice. Revert them back into 9x Ice blocks in the crafting grid. | [![Modrinth](https://img.shields.io/badge/Modrinth-00AF5C?style=flat&logo=modrinth&logoColor=white)](https://modrinth.com/project/unpackable-ice)        |
