@@ -1,6 +1,6 @@
 # Netherite Instamine
 
-Expands instamine compatibility to harder blocks, like deepslate, nether bricks, end stone, and a wide range of wood types, whenever you wield an Efficiency V pickaxe or axe under Haste II.
+Expands instamine compatibility to harder blocks, like deepslate, nether bricks, end stone and a wide range of wood types, whenever you wield an Efficiency V pickaxe or axe under Haste II.
 
 ## How it works
 
