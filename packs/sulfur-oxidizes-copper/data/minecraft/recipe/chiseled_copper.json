@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["#", "#"],
+  "key": {
+    "#": "minecraft:cut_copper_slab"
+  },
+  "group": "chiseled_copper",
+  "result": {
+    "id": "minecraft:chiseled_copper",
+    "count": 1
+  }
+}

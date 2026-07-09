@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": [" # ", "# #", " # "],
+  "key": {
+    "#": "minecraft:weathered_copper"
+  },
+  "group": "copper_grate",
+  "result": {
+    "id": "minecraft:weathered_copper_grate",
+    "count": 4
+  }
+}

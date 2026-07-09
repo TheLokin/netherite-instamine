@@ -1,0 +1,21 @@
+{
+  "parent": "minecraft:recipes/root",
+  "rewards": {
+    "recipes": ["sulfur_oxidizes_copper:oxidized_copper_grate"]
+  },
+  "criteria": {
+    "has_copper_grate": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [{ "items": "minecraft:weathered_copper_grate" }]
+      }
+    },
+    "has_recipe": {
+      "trigger": "minecraft:recipe_unlocked",
+      "conditions": {
+        "recipe": "sulfur_oxidizes_copper:oxidized_copper_grate"
+      }
+    }
+  },
+  "requirements": [["has_copper_grate", "has_recipe"]]
+}

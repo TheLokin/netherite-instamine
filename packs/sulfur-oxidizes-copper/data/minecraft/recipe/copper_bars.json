@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": ["###", "###"],
+  "key": {
+    "#": "minecraft:copper_ingot"
+  },
+  "group": "copper_bars",
+  "result": {
+    "id": "minecraft:copper_bars",
+    "count": 16
+  }
+}

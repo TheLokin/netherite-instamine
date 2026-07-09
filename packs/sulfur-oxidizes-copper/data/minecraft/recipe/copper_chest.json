@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "pattern": ["###", "#C#", "###"],
+  "key": {
+    "#": "minecraft:copper_ingot",
+    "C": "minecraft:chest"
+  },
+  "group": "copper_chest",
+  "result": {
+    "id": "minecraft:copper_chest",
+    "count": 1
+  }
+}
