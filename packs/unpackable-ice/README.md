@@ -4,7 +4,7 @@ A simple and lightweight quality-of-life addition that allows you to unpack and 
 
 ## Crafting Recipes
 
-This adds standard shapeless vanilla unpacking mechanics to the crafting grid:
+This adds standard shapeless vanilla unpacking mechanics to the crafting table:
 
 - **1x Packed Ice** $\rightarrow$ **9x Ice**
 - **1x Blue Ice** $\rightarrow$ **9x Packed Ice**
